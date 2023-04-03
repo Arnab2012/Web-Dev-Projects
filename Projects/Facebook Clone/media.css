@@ -1,0 +1,53 @@
+@media screen and (max-width:1114px){
+    #recent-logins{
+        left:70px;
+        margin-right: 22vw;
+    }
+    #login{
+        right:30px;
+    }
+}
+@media screen and (max-width:900px){
+    body{
+        height:150vh;
+    }
+    #container{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    #recent-logins{
+        margin-right: 0;
+        align-items: center;
+        margin-left: 0;
+        top: 20px;
+    }
+    #card-1{
+        margin-right: 5px;
+    }
+    #card-2{
+        margin-left: 5px;
+        margin-right: 0;
+    }
+    #login{
+        text-align: center;
+        left: 0;
+        margin-right: 0;
+        margin-top: -30px;
+        top: 80px;
+    }
+    #recent-logins,#login{
+        position: relative;
+    }
+    footer{
+        position: absolute;
+        padding: 20px;
+        width: 100vw;
+    }
+}
+@media screen and (max-height:670px){
+    footer{
+        position: relative;
+        top:100px
+    }
+}
