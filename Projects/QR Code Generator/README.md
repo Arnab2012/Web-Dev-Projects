@@ -1,3 +1,3 @@
-QR Code Generator
+#QR Code Generator
 
-Website Link--> https://arnab-qrcodegenerator.netlify.app/
+#Website Link--> https://arnab-qrcodegenerator.netlify.app/
